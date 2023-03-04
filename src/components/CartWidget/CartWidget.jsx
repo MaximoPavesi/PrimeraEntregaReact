@@ -7,7 +7,7 @@ function CartWidget() {
     <div>
       <li className="nav-item cart-notification">
           <h2 className="cart-count">2</h2>
-          <img src="img/carrito-de-compras.png" alt="Carrito de compras" className="cart-icon" />
+          <img src="img/carrito-de-compras.svg" alt="Carrito de compras" className="cart-icon" />
       </li>
   </div>
   )
